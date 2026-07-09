@@ -34,7 +34,7 @@ codewars-javascript-solutions/
 | 7kyu | ? |
 | 6kyu | ? |
 | 5kyu | ? |
-| **Total** | **88** |
+| **Total** | **90** |
 
 > I'll keep updating this table as I solve more katas.
 
