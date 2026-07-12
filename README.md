@@ -1,8 +1,10 @@
 # 💻 Codewars JavaScript Solutions
 
+[![Codewars](https://www.codewars.com/users/Ritesh%20Rajput%20/badges/large)](https://www.codewars.com/users/Ritesh%20Rajput%20)
+
 Welcome to my Codewars solutions repository!
 
-This repository contains my solutions to Codewars katas, written in **JavaScript** and organized by **difficulty level**. My goal is to improve my problem-solving skills, write clean code, and track my learning journey.
+This repository contains my **JavaScript** solutions to Codewars katas, organized by **difficulty level**. My goal is to improve my problem-solving skills, write clean and readable code, and document my learning journey.
 
 ---
 
@@ -20,46 +22,63 @@ codewars-javascript-solutions/
 
 ---
 
-## 🚀 Language
+## 🚀 Tech Stack
 
 - JavaScript (ES6+)
+- Git
+- GitHub
+- Codewars
 
 ---
 
-## 📊 Progress
+## 📈 Progress Overview
 
-| Difficulty | Solved |
-|------------|:------:|
-| 8kyu | ? |
-| 7kyu | ? |
-| 6kyu | ? |
-| 5kyu | ? |
-| **Total** | **90** |
+- 🎯 **Total Codewars Katas Solved:** **101**
+- 📤 **Solutions Uploaded to GitHub:** **16**
+- 🎯 **Current Goal:** **200 Katas**
 
-> I'll keep updating this table as I solve more katas.
+> 📌 This README is updated after every **10 new Codewars katas**.
 
 ---
 
-## 📖 What's Inside?
+## 🏆 Milestones
+
+- ✅ 25 Katas
+- ✅ 50 Katas
+- ✅ 75 Katas
+- ✅ 100 Katas
+- 🚀 101+ Katas
+- 🎯 Next Milestone: **110 Katas**
+
+---
+
+## 📖 Repository Structure
 
 Each kata has its own folder containing:
 
-- 📄 `README.md` – Problem summary and approach
+- 📄 `README.md` – Problem description and approach
 - 💻 `solution.js` – JavaScript solution
 
 ---
 
-## 🎯 Goals
+## 🎯 Learning Goals
 
 - Improve problem-solving skills
-- Practice clean and readable JavaScript
+- Strengthen JavaScript fundamentals
+- Prepare for DSA and technical interviews
 - Stay consistent with daily coding
-- Build a well-organized GitHub repository
+- Become a MERN Stack Developer
+
+---
+
+## 🔗 Codewars Profile
+
+**Profile:** https://www.codewars.com/users/Ritesh%20Rajput%20
 
 ---
 
 ## ⭐ About
 
-This repository is a part of my learning journey in JavaScript and Full Stack Web Development.
+This repository is part of my JavaScript and Full Stack Web Development learning journey. I regularly solve Codewars challenges to improve my logical thinking, coding style, and consistency.
 
-Thanks for visiting! 😊
+If you find this repository helpful, feel free to explore it. Thanks for visiting! ⭐
