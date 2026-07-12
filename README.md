@@ -22,12 +22,12 @@ codewars-javascript-solutions/
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Technologies Used
 
-- JavaScript (ES6+)
-- Git
-- GitHub
-- Codewars
+- JavaScript (ES6+) – Solution Language
+- Git – Version Control
+- GitHub – Repository Hosting
+- Codewars – Coding Practice Platform
 
 ---
 
