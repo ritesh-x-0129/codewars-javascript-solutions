@@ -1,7 +1,7 @@
 const binaryArrayToNumber = arr => {
   
 
-// Convert array [1,0,1,0] into string "1010    
+// Convert array [1,0,1,0] into string "1010" 
 let binary = arr.join('');      
 
 
