@@ -33,8 +33,8 @@ codewars-javascript-solutions/
 
 ## 📈 Progress Overview
 
-- 🎯 **Total Codewars Katas Solved:** **101**
-- 📤 **Solutions Uploaded to GitHub:** **16**
+- 🎯 **Total Codewars Katas Solved:** **121**
+- 📤 **Solutions Uploaded to GitHub:** **31**
 - 🎯 **Current Goal:** **200 Katas**
 
 > 📌 This README is updated after every **10 new Codewars katas**.
@@ -47,8 +47,8 @@ codewars-javascript-solutions/
 - ✅ 50 Katas
 - ✅ 75 Katas
 - ✅ 100 Katas
-- 🚀 101+ Katas
-- 🎯 Next Milestone: **110 Katas**
+- 🚀 120 Katas
+- 🎯 Next Milestone: **150 Katas**
 
 ---
 
@@ -73,12 +73,13 @@ Each kata has its own folder containing:
 
 ## 🔗 Codewars Profile
 
-**Profile:** https://www.codewars.com/users/Ritesh%20Rajput%20
+**Profile:**  
+https://www.codewars.com/users/Ritesh%20Rajput%20
 
 ---
 
 ## ⭐ About
 
-This repository is part of my JavaScript and Full Stack Web Development learning journey. I regularly solve Codewars challenges to improve my logical thinking, coding style, and consistency.
+This repository documents my journey of learning JavaScript through consistent Codewars practice. Each solution helps me strengthen problem-solving, write cleaner code, and build habits that will support my goal of becoming a MERN Stack Developer.
 
-If you find this repository helpful, feel free to explore it. Thanks for visiting! ⭐
+If you find this repository helpful, feel free to explore it. ⭐
