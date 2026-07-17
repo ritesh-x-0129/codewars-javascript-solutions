@@ -37,7 +37,7 @@ codewars-javascript-solutions/
 - 📤 **Solutions Uploaded to GitHub:** **31**
 - 🎯 **Current Goal:** **200 Katas**
 
-> 📌 This README is updated after every **10 new Codewars katas**.
+> 📌 This README is updated after every **50 new Codewars katas**.
 
 ---
 
