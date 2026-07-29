@@ -4,7 +4,7 @@
 
 Welcome to my Codewars solutions repository!
 
-This repository contains my **JavaScript** solutions to Codewars katas, organized by **difficulty level**. My goal is to improve my problem-solving skills, write clean and readable code, and document my learning journey.
+This repository contains my **JavaScript** solutions to Codewars katas, organized by **difficulty level**. My goal is to improve my problem-solving skills, write clean, readable code, and document my learning journey as I work towards becoming a MERN Stack Developer.
 
 ---
 
@@ -24,20 +24,18 @@ codewars-javascript-solutions/
 
 ## 🚀 Technologies Used
 
-- JavaScript (ES6+) – Solution Language
-- Git – Version Control
-- GitHub – Repository Hosting
-- Codewars – Coding Practice Platform
+- JavaScript (ES6+)
+- Git
+- GitHub
+- Codewars
 
 ---
 
 ## 📈 Progress Overview
 
-- 🎯 **Total Codewars Katas Solved:** **121**
-- 📤 **Solutions Uploaded to GitHub:** **31**
+- 🎯 **Total Codewars Katas Solved:** **150**
+- 📤 **Solutions Uploaded to GitHub:** **65+**
 - 🎯 **Current Goal:** **200 Katas**
-
-> 📌 This README is updated after every **50 new Codewars katas**.
 
 ---
 
@@ -47,39 +45,40 @@ codewars-javascript-solutions/
 - ✅ 50 Katas
 - ✅ 75 Katas
 - ✅ 100 Katas
-- 🚀 120 Katas
-- 🎯 Next Milestone: **150 Katas**
+- ✅ 150 Katas 🎉
+- 🎯 Next Milestone: **200 Katas**
 
 ---
 
 ## 📖 Repository Structure
 
-Each kata has its own folder containing:
+Each kata contains:
 
-- 📄 `README.md` – Problem description and approach
-- 💻 `solution.js` – JavaScript solution
+- 📄 `README.md` — Problem statement, approach, and complexity analysis
+- 💻 `solution.js` — JavaScript solution
 
 ---
 
 ## 🎯 Learning Goals
 
 - Improve problem-solving skills
-- Strengthen JavaScript fundamentals
-- Prepare for DSA and technical interviews
-- Stay consistent with daily coding
-- Become a MERN Stack Developer
+- Master JavaScript fundamentals
+- Strengthen DSA concepts
+- Prepare for technical interviews
+- Build consistency through daily coding
+- Become a job-ready MERN Stack Developer
 
 ---
 
 ## 🔗 Codewars Profile
 
-**Profile:**  
-https://www.codewars.com/users/Ritesh%20Rajput%20
+**Codewars:**  
+[https://www.codewars.com/users/Ritesh%20Rajput%20](https://www.codewars.com/users/Ritesh%20Rajput%20)
 
 ---
 
 ## ⭐ About
 
-This repository documents my journey of learning JavaScript through consistent Codewars practice. Each solution helps me strengthen problem-solving, write cleaner code, and build habits that will support my goal of becoming a MERN Stack Developer.
+This repository represents my journey of solving programming challenges consistently on Codewars. Every solution is documented with a dedicated README explaining the approach, time complexity, and space complexity. My objective is not only to solve problems but also to build strong problem-solving skills, write clean JavaScript code, and prepare for software development interviews.
 
-If you find this repository helpful, feel free to explore it. ⭐
+⭐ Thanks for visiting!
