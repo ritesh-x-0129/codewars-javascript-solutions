@@ -1,84 +1,126 @@
-# 💻 Codewars JavaScript Solutions
+⚔️ Codewars JavaScript Solutions
 
-[![Codewars](https://www.codewars.com/users/Ritesh%20Rajput%20/badges/large)](https://www.codewars.com/users/Ritesh%20Rajput%20)
+A collection of my JavaScript solutions to Codewars katas, organized by difficulty level.
 
-Welcome to my Codewars solutions repository!
+I’m using this repository to consistently practice problem solving, JavaScript, algorithms, and DSA fundamentals while building towards my goal of becoming a MERN Stack Developer.
 
-This repository contains my **JavaScript** solutions to Codewars katas, organized by **difficulty level**. My goal is to improve my problem-solving skills, write clean, readable code, and document my learning journey as I work towards becoming a MERN Stack Developer.
+⸻
 
----
+📊 Current Progress
 
-## 📂 Folder Structure
+Rank	Katas Solved
+🟢 8kyu	53
+🔵 7kyu	42
+🟣 6kyu	17
+🔴 5kyu	3
+Total	115
 
-```text
+🎯 Next Milestone: 200 Katas
+
+⸻
+
+🗂️ Repository Structure
+
 codewars-javascript-solutions/
 │
 ├── 8kyu/
+│   ├── kata-name/
+│   │   ├── README.md
+│   │   └── solution.js
+│   │
+│   └── ...
+│
 ├── 7kyu/
 ├── 6kyu/
 ├── 5kyu/
+│
 └── README.md
-```
 
----
+Each kata is kept in its respective difficulty folder to make the repository easy to navigate.
 
-## 🚀 Technologies Used
+⸻
 
-- JavaScript (ES6+)
-- Git
-- GitHub
-- Codewars
+📝 Kata Structure
 
----
+Every uploaded kata follows a consistent structure:
 
-## 📈 Progress Overview
+kata-name/
+├── README.md
+└── solution.js
 
-- 🎯 **Total Codewars Katas Solved:** **150**
-- 📤 **Solutions Uploaded to GitHub:** **65+**
-- 🎯 **Current Goal:** **200 Katas**
+README.md
 
----
+Contains:
 
-## 🏆 Milestones
+* Problem statement
+* Approach
+* Explanation
+* Time complexity
+* Space complexity
 
-- ✅ 25 Katas
-- ✅ 50 Katas
-- ✅ 75 Katas
-- ✅ 100 Katas
-- ✅ 150 Katas 🎉
-- 🎯 Next Milestone: **200 Katas**
+solution.js
 
----
+Contains the JavaScript solution for the kata.
 
-## 📖 Repository Structure
+⸻
 
-Each kata contains:
+🧠 What I’m Practicing
 
-- 📄 `README.md` — Problem statement, approach, and complexity analysis
-- 💻 `solution.js` — JavaScript solution
+Through these challenges, I’m focusing on:
 
----
+* JavaScript fundamentals
+* Arrays & Strings
+* Objects
+* Functions
+* Higher-order methods
+* Problem-solving patterns
+* Algorithms
+* Data Structures
+* Time & Space Complexity
+* Writing clean and readable code
 
-## 🎯 Learning Goals
+⸻
 
-- Improve problem-solving skills
-- Master JavaScript fundamentals
-- Strengthen DSA concepts
-- Prepare for technical interviews
-- Build consistency through daily coding
-- Become a job-ready MERN Stack Developer
+🏆 Milestones
 
----
+* ✅ 25 Katas
+* ✅ 50 Katas
+* ✅ 75 Katas
+* ✅ 100 Katas
+* 🎯 150 Katas
+* 🎯 200 Katas
 
-## 🔗 Codewars Profile
+The goal is not just to increase the number of solved problems, but to become better at understanding problems, designing solutions, and writing efficient code.
 
-**Codewars:**  
-[https://www.codewars.com/users/Ritesh%20Rajput%20](https://www.codewars.com/users/Ritesh%20Rajput%20)
+⸻
 
----
+🔧 Technologies & Tools
 
-## ⭐ About
+* JavaScript (ES6+)
+* Codewars
+* Git
+* GitHub
 
-This repository represents my journey of solving programming challenges consistently on Codewars. Every solution is documented with a dedicated README explaining the approach, time complexity, and space complexity. My objective is not only to solve problems but also to build strong problem-solving skills, write clean JavaScript code, and prepare for software development interviews.
+⸻
 
-⭐ Thanks for visiting!
+🎯 Long-Term Goal
+
+This repository is part of my continuous programming practice alongside my MERN Stack development journey.
+
+My focus is to build strong fundamentals before moving towards more advanced DSA and interview-level problem solving.
+
+⸻
+
+🔗 Codewars Profile
+
+👉 View my Codewars Profile
+
+⸻
+
+📈 Progress Philosophy
+
+Solve → Understand → Refactor → Document → Repeat
+
+Every kata is an opportunity to improve—not just another number on the counter.
+
+⭐ Thanks for checking out my repository!
