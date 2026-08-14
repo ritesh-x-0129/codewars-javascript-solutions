@@ -152,7 +152,7 @@ I’m using consistent problem-solving practice alongside React, Node.js, Expres
 
 🔗 Codewars Profile
 
-👉 View my Codewars Profile
+👉 View my Codewars Profile: [https://www.codewars.com/users/Ritesh%20Rajput]
 
 ⸻
 
