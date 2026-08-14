@@ -1,50 +1,63 @@
 ⚔️ Codewars JavaScript Solutions
 
-A collection of my JavaScript solutions to Codewars katas, organized by difficulty level.
+My personal collection of JavaScript solutions to Codewars katas, organized by difficulty level.
 
-I’m using this repository to consistently practice problem solving, JavaScript, algorithms, and DSA fundamentals while building towards my goal of becoming a MERN Stack Developer.
-
-⸻
-
-📊 Current Progress
-
-Rank	Katas Solved
-🟢 8kyu	53
-🔵 7kyu	42
-🟣 6kyu	17
-🔴 5kyu	3
-Total	115
-
-🎯 Next Milestone: 200 Katas
+This repository documents my progress in problem solving, JavaScript, algorithms, and DSA fundamentals as part of my journey toward becoming a MERN Stack Developer.
 
 ⸻
 
-🗂️ Repository Structure
+📊 Progress
+
+🏆 200 Katas Solved
+
+GitHub Solutions Uploaded: 115
+
+8kyu  ██████████████████████████  53
+7kyu  ████████████████████        42
+6kyu  ████████                    17
+5kyu  ██                           3
+
+🎯 Next Goal
+
+250 Katas Solved
+
+⸻
+
+🏅 Milestones
+
+* ✅ 25 Katas
+* ✅ 50 Katas
+* ✅ 75 Katas
+* ✅ 100 Katas
+* ✅ 150 Katas
+* ✅ 200 Katas 🎉
+* 🎯 250 Katas
+
+200 problems solved. The next goal is not just more problems — it’s better problem solving.
+
+⸻
+
+📂 Repository Structure
 
 codewars-javascript-solutions/
 │
 ├── 8kyu/
-│   ├── kata-name/
-│   │   ├── README.md
-│   │   └── solution.js
-│   │
-│   └── ...
-│
 ├── 7kyu/
 ├── 6kyu/
 ├── 5kyu/
 │
 └── README.md
 
-Each kata is kept in its respective difficulty folder to make the repository easy to navigate.
+Solutions are organized according to their Codewars difficulty level.
 
 ⸻
 
-📝 Kata Structure
+📝 Solution Structure
 
-Every uploaded kata follows a consistent structure:
+Each uploaded kata follows the same structure:
 
 kata-name/
+│
 ├── README.md
 └── solution.js
 
@@ -60,41 +73,30 @@ Contains:
 
 solution.js
 
-Contains the JavaScript solution for the kata.
+Contains the JavaScript implementation of the solution.
 
 ⸻
 
-🧠 What I’m Practicing
+🧠 Concepts I’m Practicing
 
-Through these challenges, I’m focusing on:
+Through Codewars, I’m continuously working on:
 
 * JavaScript fundamentals
 * Arrays & Strings
 * Objects
 * Functions
-* Higher-order methods
+* Higher-order functions
+* Array methods
 * Problem-solving patterns
 * Algorithms
 * Data Structures
-* Time & Space Complexity
+* Time Complexity
+* Space Complexity
 * Writing clean and readable code
 
 ⸻
 
-🏆 Milestones
-
-* ✅ 25 Katas
-* ✅ 50 Katas
-* ✅ 75 Katas
-* ✅ 100 Katas
-* 🎯 150 Katas
-* 🎯 200 Katas
-
-The goal is not just to increase the number of solved problems, but to become better at understanding problems, designing solutions, and writing efficient code.
-
-⸻
-
-🔧 Technologies & Tools
+🛠️ Technologies & Tools
 
 * JavaScript (ES6+)
 * Codewars
@@ -103,11 +105,38 @@ The goal is not just to increase the number of solved problems, but to become be
 
 ⸻
 
-🎯 Long-Term Goal
+🎯 Why This Repository?
 
-This repository is part of my continuous programming practice alongside my MERN Stack development journey.
+The purpose of this repository is not simply to collect solved katas.
 
-My focus is to build strong fundamentals before moving towards more advanced DSA and interview-level problem solving.
+My goal is to:
+
+* Improve logical thinking
+* Become faster at breaking down problems
+* Strengthen JavaScript fundamentals
+* Practice writing efficient solutions
+* Build consistency through regular problem solving
+* Prepare for technical interviews
+
+My approach
+
+Solve
+  ↓
+Understand
+  ↓
+Improve
+  ↓
+Document
+  ↓
+Repeat
+
+⸻
+
+🚀 Long-Term Goal
+
+This repository is part of my broader MERN Stack development journey.
+
+I’m using consistent problem-solving practice alongside React, Node.js, Express, MongoDB, and other development skills to become a job-ready full-stack developer.
 
 ⸻
 
@@ -117,10 +146,6 @@ My focus is to build strong fundamentals before moving towards more advanced DSA
 
 ⸻
 
-📈 Progress Philosophy
+⭐ 200 Katas and counting…
 
-Solve → Understand → Refactor → Document → Repeat
-
-Every kata is an opportunity to improve—not just another number on the counter.
-
-⭐ Thanks for checking out my repository!
+Thanks for visiting my repository!
