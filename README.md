@@ -5,31 +5,71 @@
     <img src="https://www.codewars.com/users/Ritesh%20Rajput/badges/large" alt="Codewars Badge">
   </a>
 </p>
-<p align="center">
-  <a href="https://www.codewars.com/users/Ritesh%20Rajput">
-    <strong>View My Codewars Profile →</strong>
-  </a>
-</p>
+
+Welcome to my Codewars solutions repository!
+
+This repository contains my JavaScript solutions to Codewars katas, organized by difficulty level. My goal is to improve my problem-solving skills, write clean and readable code, and document my learning journey as I work towards becoming a MERN Stack Developer.
 
 ⸻
 
-📊 Progress
+📂 Folder Structure
 
-200 Katas Solved
+codewars-javascript-solutions/
+│
+├── 8kyu/
+│   │
+│   ├── kata-name/
+│   │   ├── README.md
+│   │   └── solution.js
+│   │
+│   └── ...
+│
+├── 7kyu/
+│   │
+│   ├── kata-name/
+│   │   ├── README.md
+│   │   └── solution.js
+│   │
+│   └── ...
+│
+├── 6kyu/
+│   │
+│   ├── kata-name/
+│   │   ├── README.md
+│   │   └── solution.js
+│   │
+│   └── ...
+│
+├── 5kyu/
+│   │
+│   ├── kata-name/
+│   │   ├── README.md
+│   │   └── solution.js
+│   │
+│   └── ...
+│
+└── README.md
 
-115 Solutions Uploaded to GitHub
+⸻
 
-Difficulty	Solved
-8 kyu	53
-7 kyu	42
-6 kyu	17
-5 kyu	3
+🚀 Technologies Used
 
-🎯 Current Goal
+* JavaScript (ES6+)
+* Git
+* GitHub
+* Codewars
 
-250 Katas Solved
+⸻
 
-200 problems solved. The next goal is not just solving more problems — it’s becoming better at solving problems.
+📈 Progress Overview
+
+* 🏆 Total Codewars Katas Solved: 200
+* 📤 Solutions Uploaded to GitHub: 115
+* 🟢 8kyu: 53
+* 🔵 7kyu: 42
+* 🟣 6kyu: 17
+* 🔴 5kyu: 3
+* 🎯 Next Goal: 250 Katas
 
 ⸻
 
@@ -40,111 +80,37 @@ Difficulty	Solved
 * ✅ 75 Katas
 * ✅ 100 Katas
 * ✅ 150 Katas
-* ✅ 200 Katas
+* ✅ 200 Katas 🎉
 * 🎯 250 Katas
 
 ⸻
 
-📂 Repository Structure
+📖 Repository Structure
 
-codewars-javascript-solutions/
-│
-├── 8kyu/
-│   ├── kata-name/
-│   │   ├── README.md
-│   │   └── solution.js
-│   │
-│   └── ...
-│
-├── 7kyu/
-│   ├── kata-name/
-│   │   ├── README.md
-│   │   └── solution.js
-│   │
-│   └── ...
-│
-├── 6kyu/
-│   ├── kata-name/
-│   │   ├── README.md
-│   │   └── solution.js
-│   │
-│   └── ...
-│
-├── 5kyu/
-│   ├── kata-name/
-│   │   ├── README.md
-│   │   └── solution.js
-│   │
-│   └── ...
-│
-└── README.md
+Each kata contains:
 
-Solutions are organized according to Codewars difficulty levels.
+* 📄 README.md — Problem statement, approach, and complexity analysis
+* 💻 solution.js — JavaScript solution
 
 ⸻
 
-📝 Solution Structure
+🧠 Learning Goals
 
-Each uploaded kata follows a consistent structure:
+Through Codewars, I am continuously working on:
 
-README.md
-
-Contains:
-
-* Problem statement
-* Approach
-* Explanation
-* Time complexity
-* Space complexity
-
-solution.js
-
-Contains the JavaScript implementation of the solution.
+* Improve problem-solving skills
+* Master JavaScript fundamentals
+* Strengthen DSA concepts
+* Practice algorithms and data structures
+* Improve logical thinking
+* Write clean and readable JavaScript
+* Understand time and space complexity
+* Prepare for technical interviews
+* Build consistency through regular coding
 
 ⸻
 
-🧠 Concepts Practiced
-
-Through these katas, I continuously practice:
-
-* JavaScript fundamentals
-* Arrays and Strings
-* Objects
-* Functions
-* Higher-order functions
-* Array methods
-* Problem-solving patterns
-* Algorithms
-* Data Structures
-* Time Complexity
-* Space Complexity
-* Writing clean and readable JavaScript
-
-⸻
-
-🛠️ Technologies & Tools
-
-* JavaScript (ES6+)
-* Codewars
-* Git
-* GitHub
-
-⸻
-
-🎯 Purpose
-
-This repository is more than a collection of solved problems.
-
-It is a record of consistent problem-solving practice focused on:
-
-* Improving logical thinking
-* Breaking complex problems into smaller parts
-* Strengthening JavaScript fundamentals
-* Writing efficient and readable solutions
-* Understanding algorithmic patterns
-* Preparing for technical interviews
-
-My Practice Cycle
+🎯 Problem-Solving Approach
 
 Solve
   ↓
@@ -156,33 +122,34 @@ Document
   ↓
 Repeat
 
-⸻
-
-🚀 Long-Term Direction
-
-This repository is part of my broader journey toward becoming a job-ready MERN Stack Developer.
-
-Problem-solving practice is being developed alongside:
-
-React → Node.js → Express.js → MongoDB → Full-Stack Development
+The goal is not simply to increase the number of solved katas, but to understand the problem, improve the solution, and build stronger problem-solving skills.
 
 ⸻
 
-🔗 Codewars
+🚀 Long-Term Goal
+
+This repository is part of my broader MERN Stack Development journey.
+
+I am using consistent problem-solving practice alongside React, Node.js, Express.js, MongoDB, and other development skills to become a job-ready Full-Stack Developer.
+
+⸻
+
+🔗 Codewars Profile
 
 <p align="center">
   <a href="https://www.codewars.com/users/Ritesh%20Rajput">
-    <img src="https://www.codewars.com/users/Ritesh%20Rajput/badges/large" alt="Codewars Badge">
-  </a>
-</p>
-<p align="center">
-  <a href="https://www.codewars.com/users/Ritesh%20Rajput">
-    <strong>Visit My Codewars Profile →</strong>
+    <strong>👉 View My Codewars Profile</strong>
   </a>
 </p>
 
 ⸻
 
-⭐ 200 Katas and Counting
+⭐ About
 
-Consistent practice. Better problem solving. Cleaner JavaScript.
+This repository represents my journey of solving programming challenges consistently on Codewars.
+
+Every uploaded solution is documented with a dedicated README explaining the approach, complexity, and implementation details.
+
+My objective is not only to solve problems but to build strong problem-solving skills, write clean JavaScript code, and prepare for software development interviews.
+
+⭐ Thanks for visiting!
