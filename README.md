@@ -122,7 +122,7 @@ React → Node.js → Express.js → MongoDB → Full-Stack Development
 🔗 Codewars Profile
 
 <p align="center">
-  <a href="https://www.codewars.com/users/Ritesh%20Rajput">
+  <a href="https://www.codewars.com/users/Ritesh%20Rajput%20">
     <strong>⚔️ View My Codewars Profile →</strong>
   </a>
 </p>
