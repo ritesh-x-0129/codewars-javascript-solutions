@@ -13,8 +13,11 @@ This repository documents my progress in problem solving, JavaScript, algorithms
 GitHub Solutions Uploaded: 115
 
 8kyu  ██████████████████████████  53
+
 7kyu  ████████████████████        42
+
 6kyu  ████████                    17
+
 5kyu  ██                           3
 
 🎯 Next Goal
