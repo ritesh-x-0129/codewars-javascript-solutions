@@ -43,11 +43,16 @@ GitHub Solutions Uploaded: 115
 📂 Repository Structure
 
 codewars-javascript-solutions/
+
 │
 ├── 8kyu/
+
 ├── 7kyu/
+
 ├── 6kyu/
+
 ├── 5kyu/
+
 │
 └── README.md
 
@@ -60,8 +65,10 @@ Solutions are organized according to their Codewars difficulty level.
 Each uploaded kata follows the same structure:
 
 kata-name/
+
 │
 ├── README.md
+
 └── solution.js
 
 README.md
